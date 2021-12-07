@@ -1,8 +1,8 @@
 
 
-# To Do list: Add and Remove Functionality
+# To Do list Application Review
 
-> This is the Third milestone of the To Do List project with the final features of the to-do list project.
+> This is a web application that can be used to create daily tasks list and remove them procedurally after completing them or all at once. This particular version is created for review purposes by my coding partner to improve general functionality.
 
 ## Project screenshot
 
@@ -12,7 +12,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://mosams.github.io/to-do-list//dist/)
+[Live Demo Link]( https://mosams.github.io/to-do-list-review/dist/)
 
 ## Built With
 
