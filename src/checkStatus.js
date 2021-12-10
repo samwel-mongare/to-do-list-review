@@ -65,7 +65,7 @@ export function checkboxChange() {
           const yeg = e.target.previousSibling.previousSibling;
           if (yeg.firstChild.nextSibling.id.toString() === list.id.toString()) {
             if (!list.completed) {
-              alert('Check the box to be able to delete');// eslint-disable-line no-alert
+              throw Error('Check the box to be able to delete');
             } else {
               lists = lists.filter((list) => !list.completed);
             }
